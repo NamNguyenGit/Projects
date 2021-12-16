@@ -1,0 +1,70 @@
+#blog {
+    text-align: center;
+    padding: 3% 0% 0% 2%;
+}
+.blog-info {
+    text-align: left;
+}
+.blog-info h5 {
+    font-weight: bold;
+    padding-top: 10px;
+}
+.blog-info i.fa {
+    float: left;
+    margin-right: 10px;
+    color: #777;
+}
+.blog-info h6 {
+    margin: 0;
+    color: #666;
+    float: left;
+}
+.blog-info h6:hover,
+.blog-info h5:hover {
+    color: #e73131;
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+.blog-info h5 {
+    color: black;
+}
+.data-meta {
+    background: #444;
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    padding: 6px 15px;
+}
+.data-meta h4 {
+    color: #ffffff;
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+a.btn-blg {
+    color: #666;
+}
+a.btn-blg:hover {
+    color: #e73131;
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -ms-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+.blog-info p {
+    text-align: justify;
+    padding-top: 5px;
+}
+.blog-info ul.blog-icon {
+    margin: 0;
+    padding: 0;
+}
+.blog-info ul li {
+    display: inline-block;
+}
